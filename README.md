@@ -9,7 +9,7 @@ Below are the planned projects.
 4. **Earthquake**: Imports earthquake and geological information and plots earthquake locations on a map.
 5. **Election**:
 6. **Food**:
-7. **Hypothesis Test**:
+7. **Hypothesis Test**: Uses postgresql for the database creation, and z-value to perform hypothesis test.
 8. **Etsy**: Uses web scraping to extract product information into a database.
 Each project is contained within its own .py or .ipynb file, along with outputs and explanations of the code.
 

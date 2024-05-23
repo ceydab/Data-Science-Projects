@@ -6,7 +6,7 @@ Below are the planned projects.
 1. **Book Cover**: Uses web scraping to extract bookcover information into MongoDB, and analyzes it.
 2. **Random Walks**: Creates random walks and analyzes them.
 3. **Baby Names**:
-4. **Earthquake**:
+4. **Earthquake**: Imports earthquake and geological information and plots earthquake locations on a map.
 5. **Election**:
 6. **Food**:
 7. **Hypothesis Test**:

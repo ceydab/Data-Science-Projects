@@ -7,7 +7,7 @@ Below are the planned projects.
 2. **Random Walks**: Creates random walks and analyzes them.
 3. **Baby Names**:
 4. **Earthquake**: Imports earthquake and geological information and plots earthquake locations on a map.
-5. **Election**:
+5. **Election**: Performs several plots on 2012 election data
 6. **Food**:
 7. **Hypothesis Test**: Uses postgresql for the database creation, and z-value to perform hypothesis test.
 8. **Etsy**: Uses web scraping to extract product information into a database.

@@ -5,12 +5,14 @@ Below are the planned projects.
 ## **Projects Included**
 1. **Book Cover**: Uses web scraping to extract bookcover information into MongoDB, and analyzes it.
 2. **Random Walks**: Creates random walks and analyzes them.
-3. **Baby Names**:
+3. **Baby Names**: Imports baby names over the years and analyzes it.
 4. **Earthquake**: Imports earthquake and geological information and plots earthquake locations on a map.
 5. **Election**: Performs several plots on 2012 election data
-6. **Food**:
+6. **Food**: Imports food data from USDA and analyzes it.
 7. **Hypothesis Test**: Uses postgresql for the database creation, and z-value to perform hypothesis test.
 8. **Etsy**: Uses web scraping to extract product information into a database.
+
+
 Each project is contained within its own .py or .ipynb file, along with outputs and explanations of the code.
 
 ## **Note**
